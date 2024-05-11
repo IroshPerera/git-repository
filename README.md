@@ -1,2 +1,2 @@
-## git-repository
+# Git Repository
 sample project for git
